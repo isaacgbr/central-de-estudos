@@ -105,11 +105,23 @@ springboot-api
 
 Arquivos importantes:
 
-| Arquivo                  | Função                |
-| ------------------------ | --------------------- |
-| SpringbootApiApplication | Inicia o servidor     |
-| HelloController          | Cria rotas da API     |
-| pom.xml                  | Gerencia dependências |
+SpringbootApiApplication
+
+```
+Inicia o servidor 
+```
+HelloController
+
+```
+Cria rotas da API
+```
+
+pom.xml 
+
+```
+
+Gerencia dependências
+```
 
 ---
 
@@ -167,7 +179,6 @@ Resposta esperada:
         return Map.of("message", "Hello World");
 
     }
-
 ```
 Retorna:
 
@@ -189,7 +200,6 @@ Hello World
         );
 
     }
-
 ```
 
 Retorna:
@@ -214,7 +224,6 @@ Retorna:
         );
 
     }
-
 ```
 
 Retorna a data e hora do servidor.
@@ -232,7 +241,6 @@ Retorna a data e hora do servidor.
         );
 
     }
-    
 ```
 
 Exemplo:
