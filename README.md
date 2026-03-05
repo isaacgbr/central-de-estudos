@@ -1,6 +1,6 @@
 # 🚀 Estudos Backend
 
-> Repositório criado para estudo prático de Backend, com foco em entendimento real do funcionamento.
+> Repositório criado para estudo prático de Back-end, com foco em entendimento real do funcionamento.
 
 ---
 
@@ -9,10 +9,9 @@
 Este projeto tem como objetivo:
 
 - Compreender fluxo HTTP (request/response)
-- Criar rotas manualmente
-- Trabalhar com JSON
+- Aprender a criar rotas manualmente
 - Manipular parâmetros de URL
-- Entender o valor real de um framework
+- Entender o valor real de um framework e quando usá-lo
 - Utilizar Git de forma profissional
 
 Sendo o foco principal: **entender antes de abstrair**.
@@ -28,34 +27,6 @@ Sendo o foco principal: **entender antes de abstrair**.
 - Git
 - GitHub
 - VS Code
-
----
-
-## ▶ Como Executar (Javascript)
-
-### 🔵 Node Puro
-
-```bash
-node server.js
-```
-
-Acessar:
-```
-http://localhost:3000/status
-```
-
----
-
-### 🟢 Express
-
-```bash
-npm install
-node server.js
-```
-
----
-
-
 
 ---
 
