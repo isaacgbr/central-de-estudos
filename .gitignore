@@ -1,6 +1,26 @@
+# Dependências
 node_modules/
+
+# Variáveis de ambiente
 .env
-logs/
-*.log
+.env.local
+.env.production
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cobertura de testes
+coverage/
+
+# Configurações da IDE
+.vscode/
+.idea/
