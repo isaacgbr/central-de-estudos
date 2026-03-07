@@ -65,7 +65,7 @@ central-de-estudos/
 ### 🔐 Segurança
 | Conteúdo | Descrição |
 |----------|-----------|
-| [Autenticação](./seguranca/autenticacao/README-autenticacao-resumo.md) | Login, JWT, bcrypt e proteção de rotas |
+| [Autenticação](./seguranca/autenticacao-js/README-autenticacao-resumo.md) | Login, JWT, bcrypt e proteção de rotas |
 
 ### 📋 Templates
 | Template | Descrição |
@@ -99,14 +99,6 @@ central-de-estudos/
 - [ ] Spring Boot — backend com Java
 - [ ] SQL — banco de dados relacional
 - [ ] Docker — containerização de aplicações
-
----
-
-## 📊 Estatísticas
-
-![](https://img.shields.io/github/followers/isaacgbr?style=flat-square&label=Seguidores&color=blue)
-![](https://img.shields.io/github/stars/isaacgbr?style=flat-square&label=Estrelas&color=yellow)
-![](https://img.shields.io/github/last-commit/isaacgbr/central-de-estudos?style=flat-square&label=Última%20atualização&color=green)
 
 ---
 
