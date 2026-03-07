@@ -104,7 +104,9 @@ central-de-estudos/
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacgbr&show_icons=true&theme=dark&hide_border=true)
+![](https://img.shields.io/github/followers/isaacgbr?style=flat-square&label=Seguidores&color=blue)
+![](https://img.shields.io/github/stars/isaacgbr?style=flat-square&label=Estrelas&color=yellow)
+![](https://img.shields.io/github/last-commit/isaacgbr/central-de-estudos?style=flat-square&label=Última%20atualização&color=green)
 
 ---
 
