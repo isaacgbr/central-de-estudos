@@ -21,9 +21,11 @@ A ideia é simples: **aprender, documentar e evoluir.**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -40,8 +42,8 @@ A ideia é simples: **aprender, documentar e evoluir.**
 ```
 central-de-estudos/
 ├── fundamentos/        ← lógica e algoritmos
-├── linguagens/         ← JavaScript, TypeScript, Java, Python
-├── frameworks/         ← Node.js/Express, React, Spring Boot
+├── linguagens/         ← JavaScript, TypeScript, Java, Python, PHP
+├── frameworks/         ← Node.js/Express, React, Angular, Spring Boot
 ├── ferramentas/        ← Git, SQL, Docker, Postman, npm
 ├── seguranca/          ← Autenticação e JWT
 ├── templates/          ← Modelos de código comentados
@@ -67,12 +69,14 @@ central-de-estudos/
 | [Java — Parte 2](./linguagens/java/README-java-parte2.md) | Orientação a Objetos, herança e polimorfismo |
 | [Java — Parte 3](./linguagens/java/README-java-parte3.md) | Arrays, ArrayList, exceções e boas práticas |
 | [Python](./linguagens/python/README-python.md) | Fundamentos, listas, dicionários, classes e módulos |
+| [PHP](./linguagens/php/README-php.md) | Fundamentos, arrays, classes e integração com banco de dados |
 
 ### ⚙️ Frameworks
 | Conteúdo | Descrição |
 |----------|-----------|
 | [Node.js & Express](./frameworks/nodejs-express/README-nodejs-express.md) | API REST, rotas, controllers, services e middlewares |
 | [React](./frameworks/react/README-react.md) | Componentes, props, useState, useEffect e consumo de API |
+| [Angular](./frameworks/angular/README-angular.md) | Componentes, diretivas, services, rotas e consumo de API |
 | [Spring Boot](./frameworks/spring-boot/README-springboot.md) | API REST com Java, JPA, controllers e repositories |
 
 ### 🔧 Ferramentas
@@ -124,9 +128,9 @@ central-de-estudos/
 
 ### Linguagens e Frameworks
 - [ ] Next.js — React com SSR
+- [ ] Laravel — framework PHP
 - [ ] Flask ou Django — backend com Python
 - [ ] Kotlin — Android moderno
-- [ ] Angular
 
 ### Ferramentas e Infraestrutura
 - [ ] Linux — comandos essenciais no terminal
