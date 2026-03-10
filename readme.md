@@ -15,7 +15,7 @@ A ideia é simples: **aprender, documentar e evoluir.**
 
 ---
 
-## 🛠️ Tecnologias estudadas
+## 🛠️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -37,6 +37,9 @@ A ideia é simples: **aprender, documentar e evoluir.**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -93,6 +96,10 @@ central-de-estudos/
 | [Postman](./ferramentas/postman/README-postman.md) | Testes de API, collections, environments e JWT |
 | [npm & npx](./ferramentas/npm-npx/README-npm-npx.md) | Gerenciamento de pacotes, scripts e package.json |
 | [Vite](./ferramentas/vite/README-vite.md) | Ferramenta de build e servidor de desenvolvimento |
+| [CORS](./ferramentas/cors/README-cors.md) | Configuração de CORS no Express |
+| [Axios](./ferramentas/axios/README-axios.md) | Requisições HTTP no frontend |
+| [Chart.js](./ferramentas/chartjs/README-chartjs.md) | Gráficos interativos no frontend |
+| [MySQL + Node.js](./ferramentas/mysql-nodejs/README-mysql-nodejs.md) | Integração do banco de dados com o backend |
 
 ### 🔐 Segurança
 | Conteúdo | Descrição |
