@@ -47,7 +47,7 @@ Aqui você entenderá como o JavaScript manipula dados, arquivos e processos no 
 
 # ▶️ Começar Fase 1
 
-### 👉 [Ir para Aula 1 — JavaScript no Servidor](./aula1-javascript-no-servidor.md)
+### 👉 [Ir para Aula 1 — JavaScript no Servidor](./fase-1/01-javascript-fundamentos.md)
 
 </div>
 
