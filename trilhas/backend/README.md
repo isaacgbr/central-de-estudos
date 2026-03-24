@@ -1,108 +1,97 @@
 <div align="center">
 
-# 🔵 Trilha Backend
+# 🧠 Trilha Backend — Desenvolvimento do Lado do Servidor
 
-<p>
-  <img src="https://img.shields.io/badge/nível-júnior%20ao%20pleno-blue?style=flat-square" alt="nível"/>
-  <img src="https://img.shields.io/badge/pré--requisitos-lógica%20%7C%20git-lightgrey?style=flat-square" alt="pré-requisitos"/>
-</p>
-
-Backend é o lado do servidor — onde as regras de negócio vivem, os dados são processados e as APIs são construídas.  
-Esta trilha te leva do zero até construir sistemas reais, seguros e bem estruturados.
+<img src="https://img.shields.io/badge/Trilha-Backend-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nível-Iniciante%20→%20Júnior-2ECC71?style=for-the-badge">
+<img src="https://img.shields.io/badge/Foco-APIs%20•%20Banco%20de%20Dados%20•%20Servidor-8E44AD?style=for-the-badge">
 
 </div>
 
 ---
 
-## 🤔 O que é Backend?
+## 🎯 Objetivo da Trilha
 
-Backend é tudo que acontece **fora do olhar do usuário**. Enquanto o frontend é a interface, o backend é o motor — ele recebe as requisições, processa os dados, conversa com o banco de dados e devolve as respostas.
+A **Trilha Backend** ensina você a construir o cérebro das aplicações.
 
-Um desenvolvedor backend é responsável por:
+Você aprenderá a criar sistemas que funcionam por trás das telas, responsáveis por:
 
-- Criar e manter APIs REST
-- Modelar e manipular dados
-- Garantir autenticação e segurança
-- Estruturar o projeto de forma escalável e organizada
-- Integrar serviços externos
+- Processar dados
+- Regras de negócio
+- Autenticação de usuários
+- Comunicação com banco de dados
+- Criação de APIs profissionais
+- Segurança de aplicações
+- Estrutura de projetos reais
 
----
-
-## 🛤️ Escolha sua stack
-
-Não existe "melhor linguagem" — existe a linguagem certa para o contexto certo. Conheça as três opções disponíveis nessa trilha e escolha a que faz mais sentido para o seu objetivo.
+Ao final desta trilha, você será capaz de desenvolver **APIs completas e prontas para o mercado de trabalho**.
 
 ---
 
-### ⚡ JavaScript — Node.js
+## 🧱 Como esta trilha está organizada
 
-> Ideal para quem já conhece JavaScript ou quer entrar rápido no mercado
+Cada fase foi planejada para evoluir seu conhecimento de forma progressiva:
 
-- Mesma linguagem do frontend — curva de aprendizado menor
-- Ecossistema enorme — npm com milhões de pacotes
-- Muito usado em startups, empresas de produto e freelas
-- Alta demanda no mercado brasileiro
-
-**Frameworks:** Express (minimalista) · NestJS (estruturado)
-
-[→ Começar com JavaScript](./javascript/README.md)
-
----
-
-### ☕ Java
-
-> Ideal para quem quer trabalhar em empresas corporativas, bancos e fintechs
-
-- Linguagem fortemente tipada — força boas práticas desde o início
-- Dominante em sistemas de grande porte e alta disponibilidade
-- Orientação a Objetos no centro da linguagem
-- Alta demanda em empresas enterprise e concursos públicos
-
-**Frameworks:** Spring Boot
-
-[→ Começar com Java](./java/README.md)
+| Fase | Tema | Objetivo |
+|------|------|----------|
+| 🔹 Fase 1 | JavaScript para Backend | Base da linguagem no servidor |
+| 🔹 Fase 2 | Node.js | Criando servidores e aplicações |
+| 🔹 Fase 3 | APIs REST | Comunicação entre sistemas |
+| 🔹 Fase 4 | Banco de Dados | Armazenamento de informações |
+| 🔹 Fase 5 | Autenticação | Login, cadastro e segurança |
+| 🔹 Fase 6 | Arquitetura | Organização profissional de projetos |
+| 🔹 Fase 7 | Deploy | Colocando sistemas no ar |
 
 ---
 
-### 🐍 Python
+## 🎓 O que você vai aprender
 
-> Ideal para quem quer versatilidade ou tem interesse em dados e IA
-
-- Sintaxe limpa e de fácil aprendizado
-- Muito usado em backend, automação, ciência de dados e inteligência artificial
-- Forte presença em startups internacionais e empresas de tecnologia
-- Boa porta de entrada para quem vem de outras áreas
-
-**Frameworks:** Flask · FastAPI
-
-[→ Começar com Python](./python/README.md)
+✅ Criar servidores  
+✅ Construir APIs profissionais  
+✅ Trabalhar com requisições HTTP  
+✅ Integrar banco de dados  
+✅ Implementar autenticação de usuários  
+✅ Proteger rotas e dados sensíveis  
+✅ Organizar projetos como empresas de tecnologia  
+✅ Publicar aplicações na internet  
 
 ---
 
-## 📊 Comparativo rápido
+## 🗂️ Estrutura de cada fase
 
-| | JavaScript | Java | Python |
-|--|------------|------|--------|
-| Curva de aprendizado | Média | Alta | Baixa |
-| Mercado BR | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| Empresas corporativas | ✅ | ✅✅ | ✅ |
-| Startups | ✅✅ | ✅ | ✅✅ |
-| Dados / IA | ❌ | ❌ | ✅✅ |
-| Tipagem | Dinâmica | Estática | Dinâmica |
+Cada fase contém:
+
+📘 Um guia explicando o objetivo da fase  
+📚 4 aulas práticas e progressivas  
+🧠 Exercícios práticos e desafios  
+🔗 Navegação organizada entre conteúdos  
 
 ---
 
-## ✅ Pré-requisitos
+## 🚀 Pré-requisitos
 
-Antes de iniciar qualquer stack desta trilha, você deve ter:
+Para aproveitar melhor esta trilha, é recomendado ter concluído:
 
-- Lógica de programação — condicionais, loops, funções
-- Git & GitHub — versionamento básico
-
-Não tem isso ainda? → [🟢 Trilha Iniciante](../iniciante/README.md)
+- ✅ Lógica de Programação
+- ✅ Algoritmos
+- ✅ Git & GitHub
+- ✅ JavaScript
+- ✅ HTML & CSS
 
 ---
 
 <div align="center">
-  <sub><a href="../../README.md">← voltar para o índice</a></sub>
+
+# ▶️ Começar a Trilha
+
+### 👉 [Iniciar Fase 1 — JavaScript para Backend](./javascript/README.md)
+
+</div>
+
+---
+
+<div align="center">
+
+⬅️ Trilha Anterior | 🏠 Início do Repositório | ➡️ Próxima Trilha (Frontend)
+
 </div>
